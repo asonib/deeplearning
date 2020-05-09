@@ -25,5 +25,4 @@ Non-trainable params: 0
 _________________________________________________________________
 </pre>
 ## MNIST Loss/Accuracy Graph
-<h6>ConvoNet/mnist</h6>
 ![Image description](https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/mnist-classifier/graph.png)
