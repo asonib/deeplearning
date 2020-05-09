@@ -1,4 +1,4 @@
-# deeplearning
+# MNIST Archicture
 <pre>
 Model: "sequential_1"
 _________________________________________________________________
@@ -24,4 +24,4 @@ Non-trainable params: 0
 _________________________________________________________________
 </pre>
 ## Loss/Accuracy Graph
-<img src"./model.png">
+
