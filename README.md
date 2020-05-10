@@ -24,6 +24,6 @@ Trainable params: 1,199,882
 Non-trainable params: 0
 _________________________________________________________________
 </pre>
-# MNIST Loss/Accuracy Graph
+<h4>MNIST Loss/Accuracy Graph</h4>
 
 ![Image description](https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/mnist-classifier/graph.png)
