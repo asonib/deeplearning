@@ -1,4 +1,4 @@
-# MNIST Archicture
+# MNIST Classifier Archicture
 <h6>ConvoNet/mnist</h6>
 <pre>
 Model: "sequential_1"
@@ -24,6 +24,6 @@ Trainable params: 1,199,882
 Non-trainable params: 0
 _________________________________________________________________
 </pre>
-<h4>MNIST Loss/Accuracy Graph</h4>
+<h4>MNIST Classifier Loss/Accuracy Graph</h4>
 
 ![Image description](https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/mnist-classifier/graph.png)
