@@ -31,7 +31,9 @@ _________________________________________________________________
 </pre>
 
 <h4> Loss/Validation Loss</h4>
-![Image description]('https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/LeNet/graphs/loss.png')
+
+![Image description](https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/LeNet/graphs/loss.png)
 
 <h4> Accuracy/Validation Accuracy</h4>
-![Image description]('https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/LeNet/graphs/accuracy.png')
+
+![Image description](https://raw.githubusercontent.com/asonib/deeplearning/master/ConvoNet/LeNet/graphs/accuracy.png)
