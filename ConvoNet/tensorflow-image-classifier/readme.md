@@ -30,8 +30,8 @@ _________________________________________________________________
 
 <h4> Loss/Validation Loss and Accuracy/Validation Accuracy Graph without Dropout</h4>
 
-![Image description]()
+![Image description](https://github.com/asonib/deeplearning/blob/master/ConvoNet/tensorflow-image-classifier/graphs/without.png)
 
 <h4> Loss/Validation Loss and Accuracy/Validation Accuracy Graph with Dropout</h4>
 
-![Image description]()
+![Image description](https://github.com/asonib/deeplearning/blob/master/ConvoNet/tensorflow-image-classifier/graphs/with.png)
