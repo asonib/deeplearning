@@ -1,4 +1,4 @@
-# LeNet MNIST Classifier Architecture
+# LeNet Architecture
 <pre>
   Model: "sequential_3"
 _________________________________________________________________
